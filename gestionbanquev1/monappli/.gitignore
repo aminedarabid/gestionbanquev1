@@ -1,0 +1,7 @@
+# Eclipse config
+.settings/
+.classpath
+.project
+
+#Maven
+target
